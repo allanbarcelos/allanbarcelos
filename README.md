@@ -38,6 +38,6 @@
 
 # My Github Stats
   
-<div style="width:100%;display:flex;justify-content:center;">
+<p align="center">
   <img alt="Nodejs" src="https://github-readme-stats-azure-mu.vercel.app/api?username=allanbarcelos&count_private=true&show_icons=true&include_all_commits=true" />
 </div>
