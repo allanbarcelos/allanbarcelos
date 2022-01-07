@@ -1,6 +1,5 @@
 # Hi there 👋
 
-<br />
 <p>
   <a href="https://www.linkedin.com/in/allanbarcelos/">
     <img alt="Webpack" src="https://img.shields.io/badge/-Allan Barcelos-0E76A8?style=flat-square&logo=linkedin&logoColor=white" /> 
@@ -9,6 +8,7 @@
     <img alt="Webpack" src="https://img.shields.io/badge/-Allan Barcelos-1DB954?style=flat-square&logo=spotify&logoColor=white" /> 
   </a>
 </p>
+
 <br />
 
 <p>I`m Allan, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/206/206597.png" width="16"/> Brazil, Currently living in <img src="https://cdn-icons-png.flaticon.com/512/206/206609.png" width="16"/> Montreal, Canada.</p>
