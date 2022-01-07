@@ -1,12 +1,14 @@
 # Hi there 👋
 
-<a href="https://www.linkedin.com/in/allanbarcelos/">
-  <img alt="Webpack" src="https://img.shields.io/badge/-Allan Barcelos-0E76A8?style=flat-square&logo=linkedin&logoColor=white" /> 
-</a>
-<a href="https://open.spotify.com/playlist/0lSqiCYXFt3xNz2lV93RNE?si=17a8f92374704ecf">
-  <img alt="Webpack" src="https://img.shields.io/badge/-Allan Barcelos-1DB954?style=flat-square&logo=spotify&logoColor=white" /> 
-</a>
-
+<br />
+<p>
+  <a href="https://www.linkedin.com/in/allanbarcelos/">
+    <img alt="Webpack" src="https://img.shields.io/badge/-Allan Barcelos-0E76A8?style=flat-square&logo=linkedin&logoColor=white" /> 
+  </a>
+  <a href="https://open.spotify.com/playlist/0lSqiCYXFt3xNz2lV93RNE?si=17a8f92374704ecf">
+    <img alt="Webpack" src="https://img.shields.io/badge/-Allan Barcelos-1DB954?style=flat-square&logo=spotify&logoColor=white" /> 
+  </a>
+</p>
 <br />
 
 <p>I`m Allan, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/206/206597.png" width="16"/> Brazil, Currently living in <img src="https://cdn-icons-png.flaticon.com/512/206/206609.png" width="16"/> Montreal, Canada.</p>
