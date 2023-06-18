@@ -2,10 +2,10 @@
 # Hi there 👋
 
 <p>
-  <a href="https://www.linkedin.com/in/allanbarcelos/">
+  <a target="_blank" href="https://www.linkedin.com/in/allanbarcelos/">
     <img alt="Webpack" src="https://img.shields.io/badge/-Allan Barcelos-0E76A8?style=flat-square&logo=linkedin&logoColor=white" /> 
   </a>
-  <a href="https://open.spotify.com/playlist/20CemQuvW1u0rFqNEIYyfr">
+  <a target="_blank" href="https://open.spotify.com/playlist/20CemQuvW1u0rFqNEIYyfr">
     <img alt="Webpack" src="https://img.shields.io/badge/-Allan Barcelos-1DB954?style=flat-square&logo=spotify&logoColor=white" /> 
   </a>
 </p>
