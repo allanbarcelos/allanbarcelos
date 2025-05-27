@@ -20,10 +20,3 @@
 
 ![NestJS](https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label=) ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=) ![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=) ![CodeIgniter](https://img.shields.io/static/v1?style=for-the-badge&message=CodeIgniter&color=EF4223&logo=CodeIgniter&logoColor=FFFFFF&label=)
 <br />
-
-
-# My Github Stats
-  
-<p align="center">
-  <img alt="Nodejs" src="https://github-readme-stats-azure-mu.vercel.app/api?username=allanbarcelos&count_private=true&show_icons=true&include_all_commits=true" />
-</div>
