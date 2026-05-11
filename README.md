@@ -39,8 +39,3 @@
   <img src="github-metrics.svg" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/allanbarcelos/allanbarcelos/output/github-contribution-grid-snake-dark.svg" />
-</p>
