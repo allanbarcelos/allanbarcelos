@@ -33,15 +33,10 @@
 
 ---
 
-### GitHub Stats
+### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allanbarcelos&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanbarcelos&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=allanbarcelos&theme=tokyonight&hide_border=true" />
+  <img src="github-metrics.svg" />
 </p>
 
 ---
