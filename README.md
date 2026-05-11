@@ -1,22 +1,51 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Allan+Barcelos+%F0%9F%91%8B;Full+Stack+Developer+%7C+15%2B+years;Java+%C2%B7+Angular+%C2%B7+Python+%C2%B7+.NET;TDD+%C2%B7+DevOps+%C2%B7+Microservices;Montreal%2C+Canada+%F0%9F%87%A8%F0%9F%87%A6" alt="Typing SVG" />
+</div>
 
-# Hi there 👋
+<br />
 
-<p>
-  <a target="_blank" href="https://www.linkedin.com/in/allanbarcelos/">
-    <img alt="Webpack" src="https://img.shields.io/badge/-Allan Barcelos-0E76A8?style=flat-square&logo=linkedin&logoColor=white" /> 
-  </a>
-  <a target="_blank" href="https://open.spotify.com/playlist/20CemQuvW1u0rFqNEIYyfr">
-    <img alt="Webpack" src="https://img.shields.io/badge/-Allan Barcelos-1DB954?style=flat-square&logo=spotify&logoColor=white" /> 
-  </a>
+<p align="center">
+  <a href="https://www.barcelos.dev" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/barcelos.dev-000?style=flat-square&logo=About.me&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/allanbarcelos" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0E76A8?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://hub.docker.com/u/allanbarcelos" target="_blank"><img alt="Docker Hub" src="https://img.shields.io/badge/Docker_Hub-2496ED?style=flat-square&logo=docker&logoColor=white" /></a>
+  <a href="mailto:allan@barcelos.dev"><img alt="Email" src="https://img.shields.io/badge/allan@barcelos.dev-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.barcelos.dev/Allan_Barcelos_EN.pdf" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white" /></a>
 </p>
 
-<p>I`m Allan, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/206/206597.png" width="16"/> Brazil, Currently living in <img src="https://cdn-icons-png.flaticon.com/512/206/206609.png" width="16"/> Montreal, Canada. I've been a software developer for over 15 years I have experience with a wide range of programming languages, I stand out as a front-end however because of my experience I'm a Full Stack developer. I'm always looking for new challenges, researching and learning.</p>
+---
 
-## My TOP Skills
+- 🇧🇷 Born in Brazil, living in **Montreal, Canada** 🇨🇦
+- 💼 Fullstack Developer at **Canadel** · Lecturer at **Collège LaSalle**
+- ⚙️ Passionate about **TDD**, **microservices**, and **DevOps**
+- 🌱 Always learning — currently exploring **AI integrations** and **IoT**
+- 🎨 Painter, reader, Arduino tinkerer in my spare time
 
-![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=) ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=) ![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=) ![C Sharp](https://img.shields.io/static/v1?style=for-the-badge&message=C+Sharp&color=239120&logo=C+Sharp&logoColor=FFFFFF&label=) ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=) ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+---
 
-![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=) ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=) ![Microsoft SQL Server](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label=)
+### Tech Stack
 
-![NestJS](https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label=) ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=) ![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=) ![CodeIgniter](https://img.shields.io/static/v1?style=for-the-badge&message=CodeIgniter&color=EF4223&logo=CodeIgniter&logoColor=FFFFFF&label=)
-<br />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,cs,php,cpp" /><br/>
+  <img src="https://skillicons.dev/icons?i=angular,react,nodejs,spring,dotnet,nestjs,laravel" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,linux,arduino" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,oracle" />
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=allanbarcelos&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanbarcelos&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=allanbarcelos&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/allanbarcelos/allanbarcelos/output/github-contribution-grid-snake-dark.svg" />
+</p>
