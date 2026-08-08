@@ -15,7 +15,7 @@
 ---
 
 - 🇧🇷 Born in Brazil, living in **Montreal, Canada** 🇨🇦
-- 💼 Fullstack Developer at **Canadel** · Lecturer at **Collège LaSalle**
+- 💼 Project Manager at **PAMC Software** · Lecturer at **Collège LaSalle**
 - ⚙️ Passionate about **TDD**, **microservices**, and **DevOps**
 - 🌱 Always learning — currently exploring **AI integrations** and **IoT**
 - 🎨 Painter, reader, Arduino tinkerer in my spare time
